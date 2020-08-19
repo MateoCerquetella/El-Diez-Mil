@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1512354109 source:c:\users\mateo\documents\mateo\utn pacheco\laboratorio i\segundo parcial (10000)\10000 (4ta version)\10000\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<vector>
+	"EstructuraDados.h"
+	"CombinacionesDados.h"
+
+1512352568 c:\users\mateo\documents\mateo\utn pacheco\laboratorio i\segundo parcial (10000)\10000 (4ta version)\10000\estructuradados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"CombinacionesDados.h"
+
+1512342841 c:\users\mateo\documents\mateo\utn pacheco\laboratorio i\segundo parcial (10000)\10000 (4ta version)\10000\combinacionesdados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"EstructuraDados.h"
+
+1512358811 source:c:\users\tomas\downloads\10000 (1)\10000\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<vector>
+	"EstructuraDados.h"
+	"CombinacionesDados.h"
+
+1512358656 c:\users\tomas\downloads\10000 (1)\10000\estructuradados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"CombinacionesDados.h"
+
+1512358493 c:\users\tomas\downloads\10000 (1)\10000\combinacionesdados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"EstructuraDados.h"
+
+1512381062 source:c:\users\mateo\documents\mateo\utn pacheco\laboratorio i\segundo parcial (10000)\10000(5ta version)\10000\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<conio.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"EstructuraDados.h"
+	"CombinacionesDados.h"
+
+1512380761 c:\users\mateo\documents\mateo\utn pacheco\laboratorio i\segundo parcial (10000)\10000(5ta version)\10000\estructuradados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"CombinacionesDados.h"
+
+1512379812 c:\users\mateo\documents\mateo\utn pacheco\laboratorio i\segundo parcial (10000)\10000(5ta version)\10000\combinacionesdados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"EstructuraDados.h"
+
+1512372208 source:c:\users\tomas\downloads\10000 (2)\10000\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<conio.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<vector>
+	"EstructuraDados.h"
+	"CombinacionesDados.h"
+
+1512371786 c:\users\tomas\downloads\10000 (2)\10000\estructuradados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"CombinacionesDados.h"
+
+1512363148 c:\users\tomas\downloads\10000 (2)\10000\combinacionesdados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"EstructuraDados.h"
+
+1512395560 source:c:\users\mateo\desktop\10000\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<conio.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"EstructuraDados.h"
+	"CombinacionesDados.h"
+
+1512395863 c:\users\mateo\desktop\10000\estructuradados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"CombinacionesDados.h"
+
+1512392607 c:\users\mateo\desktop\10000\combinacionesdados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"EstructuraDados.h"
+
+1519951439 source:c:\users\mateo\documents\mateo\utn pacheco\laboratorio i\segundo parcial (10000)\10000(version final)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<conio.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"EstructuraDados.h"
+	"CombinacionesDados.h"
+
+1519951439 c:\users\mateo\documents\mateo\utn pacheco\laboratorio i\segundo parcial (10000)\10000(version final)\estructuradados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"CombinacionesDados.h"
+
+1519520121 c:\users\mateo\documents\mateo\utn pacheco\laboratorio i\segundo parcial (10000)\10000(version final)\combinacionesdados.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"EstructuraDados.h"
+
